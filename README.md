@@ -62,7 +62,7 @@ Ingeniero Electrónico titulado de la **Pontificia Universidad Católica de Valp
 Puedes contactarme o seguir mi trabajo en:
 
 - 💬 [GitHub Discussions](https://github.com/Matizinho-AI)  
-- 📧 **Correo:** [matias.toribio.c@mail.pucv.cl](mailto:matias.toribio.c@mail.pucv.cl)  
+- 📧 **Correo:** [matias.toribio@pucv.cl](mailto:matias.toribio@pucv.cl)  
 - 🔗 **LinkedIn:** [Matías Toribio Clark](https://www.linkedin.com/in/matiastoribioclark/)  
 - 🗨️ **Discord:** matizinho  
 
